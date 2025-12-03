@@ -6,6 +6,7 @@ def asm_load_const(const1: int, address1: int):
     output = 0
     output |= 2
 
+
     const1_masked = const1 & 0xFFFF
     output |= (const1_masked << 3)
     address1_masked = address1 & 0x1F
