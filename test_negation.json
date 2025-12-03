@@ -1,0 +1,8 @@
+[
+  {"command": "load_const", "args": [42, 0]},
+  {"command": "load_const", "args": [0, 1]},
+  {"command": "unar_minus", "args": [1, 2]},
+  {"command": "load_const", "args": [-100, 3]},
+  {"command": "load_const", "args": [3, 4]},
+  {"command": "unar_minus", "args": [4, 5]}
+]

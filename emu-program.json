@@ -1,0 +1,20 @@
+[
+  {"command": "load_const", "args": [10, 0]},
+  {"command": "load_const", "args": [20, 1]},
+  {"command": "load_const", "args": [30, 2]},
+  {"command": "load_const", "args": [40, 3]},
+  {"command": "load_const", "args": [50, 4]},
+  {"command": "load_const", "args": [60, 5]},
+  {"command": "load_const", "args": [70, 6]},
+  {"command": "load_const", "args": [80, 7]},
+  {"command": "load_const", "args": [90, 8]},
+  {"command": "unar_minus", "args": [0, 0]},
+  {"command": "unar_minus", "args": [1, 1]},
+  {"command": "unar_minus", "args": [2, 2]},
+  {"command": "unar_minus", "args": [3, 3]},
+  {"command": "unar_minus", "args": [4, 4]},
+  {"command": "unar_minus", "args": [5, 5]},
+  {"command": "unar_minus", "args": [6, 6]},
+  {"command": "unar_minus", "args": [7, 7]},
+  {"command": "unar_minus", "args": [8, 8]}
+]
